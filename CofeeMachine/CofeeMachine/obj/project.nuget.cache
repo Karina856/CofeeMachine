@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iB8ML+xlM42poiRA7AJCwctCqkwWclBn6yHkS9tA1S31dVCreuRFr9S8oe8SdPDWl/Drv9qTMjw5EN1okyWH1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karin\\Desktop\\CofeeMachine\\CofeeMachine\\CofeeMachine\\CofeeMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karin\\.nuget\\packages\\sonaranalyzer.csharp\\8.38.0.46746\\sonaranalyzer.csharp.8.38.0.46746.nupkg.sha512"
+  ],
+  "logs": []
+}
